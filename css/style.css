@@ -1,0 +1,16 @@
+body{
+    background-color: skyblue;
+   }
+  hr{
+  border-style:  none ;
+  border-top: dotted gray;
+  border-width: 5px;
+   height: 0px;
+   width: 5%;
+  }
+  h1{
+    color: #7B2869;
+  }
+  h2{
+    color: #7B2869;
+  }

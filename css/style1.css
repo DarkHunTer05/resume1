@@ -1,0 +1,33 @@
+body{
+ margin: 0px;
+ text-align: center;
+ font-family:verdana,Geneva, Tahoma, sans-serif;
+}
+h1{
+ margin-top: 0px;
+ font-family: 'Sacramento',cursive;
+}
+h2{
+    font-family:verdana,Geneva, Tahoma, sans-serif;
+}
+h3{
+    font-family:verdana,Geneva, Tahoma, sans-serif;
+}
+.topcontainer{
+ background-color: #8EA7E9;
+ padding-top: 100px;
+position:relative;
+}
+.top-cloud{
+position:absolute;
+right:40px;
+}
+.bottom-cloud{
+position:absolute;
+}
+.middlecontainer{
+
+ 
+}
+.bottomcontainer{
+}
